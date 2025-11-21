@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%; 
+    font-family: sans-serif;
+    }
+/* Task A*/
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; 
+    }
+
+/* Task B */
+.header, .footer {
+    height: 80px; 
+    background-color: #335dcf;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+/* Task C*/
+.content {
+    flex-grow: 1; 
+    background-color: #f4f4f4;
+    padding: 20px; 
+    }
