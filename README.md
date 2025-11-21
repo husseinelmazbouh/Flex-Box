@@ -3,7 +3,8 @@
 A simple, responsive web page layout implementing a "sticky" header and footer with a fluid content area that fills the remaining screen space. This project uses CSS Flexbox to ensure the layout adapts to any screen size.
 
 <h2>Project Structure</h2>
-index.html: Contains both the HTML structure .
+index.html: Contains the HTML structure .<br>
+style.css : Contains the CSS style for HTML
 <h2>How It Works</h2>
 <h3>How to Run</h3>
 Download index.html<br>
